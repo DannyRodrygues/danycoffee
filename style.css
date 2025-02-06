@@ -298,6 +298,12 @@ button{
   font-weight: 400;
 }
 
+.receita-descricao2{
+  color: #fff2e7;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
 .receita-autor {
   display: flex;
   flex-direction: row;
