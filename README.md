@@ -52,6 +52,9 @@ ___
 ## 🙌 Agradecimentos.
 Este projeto foi inspirado e desenvolvido com base no aprendizado adquirido na aula da Rafaella Ballerini. Agradeço pelo conteúdo incrível que me ajudou a criar o DanyCoffee! 🎉
 ___
+## 📅 Status do Projeto.
+O DanyCoffee está em constante evolução. Novas receitas e funcionalidades estão a caminho! Fique de olho nas atualizações.
+___
 ## 📧 Contato.
 Dúvidas ou sugestões? Entre em contato comigo, abra uma issue aqui no GitHub.
 
